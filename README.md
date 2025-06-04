@@ -9,7 +9,7 @@ Imagine you're a talented developer at "Future Homes Realty", a forward-thinking
 Your task is to develop an innovative application named "HomeMatch". This application leverages large language models (LLMs) and vector databases to transform standard real estate listings into personalized narratives that resonate with potential buyers' unique preferences and needs.
 
 
-## Core Components of "HomeMatch"
+## Core Components
 
 ### Understanding Buyer Preferences:
 
